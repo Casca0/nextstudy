@@ -13,7 +13,7 @@ export const metadata: Metadata = {
 		type: 'website',
 		title: 'Acme Dashboard',
 		description: 'The official Next.js Learn Dashboard built with App Router.',
-		siteName: 'Acme Dashabord',
+		siteName: 'Acme Dashbord',
 	}
 };
 
