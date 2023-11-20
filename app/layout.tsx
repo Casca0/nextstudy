@@ -14,9 +14,6 @@ export const metadata: Metadata = {
 		title: 'Acme Dashboard',
 		description: 'The official Next.js Learn Dashboard built with App Router.',
 		siteName: 'Acme Dashabord',
-		images: [{
-			url: 'public/opengraph-image.png'
-		}]
 	}
 };
 
